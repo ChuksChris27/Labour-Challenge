@@ -26,15 +26,15 @@ I also imported various libraries such as
 - Pandas
 - Numpy
 - Snscrape
-- re # In-built regular expressions library
+- re #In-built regular expressions library
 - string
 - nltk
 - TextBlob # TextBlob - Python library for processing textual data
 
 #### Natural Language Processing Toolkit
-- Stopwords, Words # get stopwords from NLTK library & get all words in english language
-- Word_tokenize # to create word tokens
-- Pos_tag # For Parts of Speech tagging
+- Stopwords, Words #get stopwords from NLTK library & get all words in english language
+- Word_tokenize #to create word tokens
+- Pos_tag #For Parts of Speech tagging
 
 ### The Data Extraction Process
 
@@ -76,3 +76,5 @@ I am open for corrections, code adjustments and contributions
 ## Data Visualization
 The final data was downloaded and Visualized using Power BI.
 The Power BI file is found in this repository
+
+Reference Link - ```https://github.com/jess-data/Twitter-2020-Sentiment-Analysis/blob/master/Twitter%20Sentiment%20Analysis%20Project.ipynb```
